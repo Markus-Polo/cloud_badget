@@ -41,8 +41,7 @@
 .icon-playstore:before {
   content: "\e905";
 }
-/* TODO icon-windows-store */
-.icon-windows_store:before {
+.icon-windows-store:before {
   content: "\e906";
 }
 .icon-facebook:before {
